@@ -4,18 +4,18 @@ print("Hello Pthon")
 print("Hello Phycharm")
 print("Hello World")
 print("hello Colab")
-a = 5
-b = "John"
-print(a)
-print(b)
+c = 5
+d = "John"
+print(c)
+print(d)
 
 name = input('What is your name?\n')     # \n ---> newline  ---> It causes a line break
 print(name)
 
 fruits = ["apple", "banana", "cherry"]
-for a in fruits:
-  print(a)
-  if a == "banana":
+for b in fruits:
+  print(b)
+  if b == "banana":
     break
 cars = ["Ford", "Volvo", "BMW"]
 
