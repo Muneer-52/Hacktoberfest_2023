@@ -4,6 +4,8 @@ print("Hello Pthon")
 print("Hello Phycharm")
 print("Hello World")
 print("hello Colab")
+print("hello Colab")
+
 c = 5
 e = "John"
 print(c)
