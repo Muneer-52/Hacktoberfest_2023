@@ -2,9 +2,9 @@
 #include <iostream>
 
 int main() {
-    int j=2;
+    int d=2;
     for(int i=0:;i<=10;1++)
         cout<<i<<"Hello World!";
-    cout<<j;
+    cout<<d;
     return 0;
 }
