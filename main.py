@@ -8,6 +8,8 @@ c = 5
 d = "John"
 print(c)
 print(d)
+print("Hello World")
+print("hello Colab")
 
 name = input('What is your name?\n')     # \n ---> newline  ---> It causes a line break
 print(name)
