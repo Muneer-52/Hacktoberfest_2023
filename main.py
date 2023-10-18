@@ -5,9 +5,9 @@ print("Hello Phycharm")
 print("Hello World")
 print("hello Colab")
 c = 5
-d = "John"
+e = "John"
 print(c)
-print(d)
+print(e)
 print("Hello World")
 print("hello Colab")
 
