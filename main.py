@@ -6,9 +6,9 @@ print("Hello World")
 print("hello Colab")
 print("hello Colab")
 
-c = 5
+a = 5
 e = "John"
-print(c)
+print(a)
 print(e)
 print("Hello World")
 print("hello Colab")
