@@ -19,3 +19,8 @@ for b in fruits:
     break
 cars = ["Ford", "Volvo", "BMW"]
 
+print("Hello Pthon") 
+
+print("Hello Phycharm")
+print("Hello World")
+print("hello Colab")
