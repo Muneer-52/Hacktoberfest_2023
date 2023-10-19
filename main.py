@@ -1,7 +1,7 @@
 
 print("Hello Python") 
 print("hello Muneer")
-print("Kasa hai")
+
 
 print("Hello Phycharm")
 print("Hello World")
