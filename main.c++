@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std:
 int main() {
-    int d=2;
+    int a=2;
     for(int i=0; i<=10;1++)
         cout<<i<<"Hello World!";
-    cout<<d;
+    cout<<a;
     return 0;
 }
