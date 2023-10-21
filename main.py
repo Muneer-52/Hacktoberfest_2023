@@ -14,7 +14,7 @@ print(a)
 print(e)
 print("Hello World")
 print("hello Colab")
-
+print("mano")
 name = input('What is your name?\n')     # \n ---> newline  ---> It causes a line break
 print(name)
 
